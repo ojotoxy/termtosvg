@@ -4,9 +4,6 @@
             <termtosvg:screen_geometry columns="82" rows="19"/>
             <termtosvg:animation type="css"/>
         </termtosvg:template_settings>
-        <style type="text/css" id="generated-style"><![CDATA[#screen {
-        
-        </style>
     </defs>
 
 </svg>
